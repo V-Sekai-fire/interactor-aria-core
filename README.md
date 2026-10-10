@@ -12,4 +12,4 @@ It is an application from an umbrella project, and its Mix project points its bu
 
 ## Licence
 
-MIT, as the SPDX headers in its sources declare. There is no LICENSE file.
+MIT. See [LICENSE](LICENSE).
